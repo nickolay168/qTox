@@ -2894,6 +2894,10 @@ Deze ID umvat de NoSpam-code (in blauw) en de checksum (in gries).</translation>
         <translation type="unfinished">%1 ging offline tijdens de oproeppoging</translation>
     </message>
     <message>
+        <source>The call was terminated because %1 unexpectedly went offline. %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>%1 here! Tox me maybe?</source>
         <comment>Default message in Tox URI friend requests. Write something appropriate!</comment>
         <translatorcomment>Automated translation.</translatorcomment>
